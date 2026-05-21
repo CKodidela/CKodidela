@@ -1,6 +1,6 @@
 # Hi, I'm Chetan Reddy Kodidela 👋
 
-Backend-focused software engineer graduating from **IIT Tirupati (May 2026)**.  
+Backend-focused software engineer graduated from **IIT Tirupati (May 2026)**.  
 I work in production TypeScript codebases — cryptographic protocols, type-safe APIs, DB optimization, and system-boundary security.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kchetanreddy)
