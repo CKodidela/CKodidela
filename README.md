@@ -1,11 +1,97 @@
-# 💫 About Me:
-I'm a final-year student at IIT Tirupati who discovered my passion for software development through competitive programming and open-source contributions. I love building real-time systems and working with emerging technologies. What drives me is understanding complex systems deeply and making them work reliably at scale.
+# Hi, I'm Chetan Reddy Kodidela 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kchetanreddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CKodidela) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanreddyk394@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23006400.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/BROCODES2024/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/red2024/)  
+Backend-focused software engineer graduating from **IIT Tirupati (May 2026)**.  
+I work in production TypeScript codebases — cryptographic protocols, type-safe APIs, DB optimization, and system-boundary security.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kchetanreddy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23006400.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/BROCODES2024/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CKodidela)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanreddyk394@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://chetan-pp.vercel.app/)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I Do
+
+- **Open Source** — 12 merged PRs across [Nostream](https://github.com/Cameri/nostream) (Nostr relay) and [Galoy](https://github.com/GaloyMoney/galoy) (Bitcoin banking), reviewed and accepted by project maintainers
+- **Cryptography** — Implemented NIP-44 v2 E2E crypto (ChaCha20, HKDF, MAC) from scratch in production
+- **Performance** — Resolved N+1 queries with DataLoader batching; cut DB calls 12× with zero API contract changes
+- **Type Safety** — Discriminated unions, Zod schemas, co-located auth checks — correctness at every layer
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat&logo=websocket&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Brikrow](https://brikrow.vercel.app) — Collaborative Dev Portfolio Platform
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Supabase Auth` `Tailwind CSS v4`
+
+- Developers post projects, recruit contributors (capped at 3/project), and apply as mentors
+- RBAC PostgreSQL schema (owner/contributor/mentor) with content gating — repo links only visible to approved members, enforced at the Server Action layer
+- 4-stage GitHub Actions CI pipeline + Husky pre-commit hooks on staged files only
+
+### [ZapRoom](https://zaproom.vercel.app) — Real-Time Chat App
+`TypeScript` `Node.js` `WebSockets` `React` `shadcn/ui`
+
+- Room-based chat with fan-out broadcast scoped to room members — O(room size) per message vs O(all connections) naive pattern
+- Deliberate architectural decisions: connection isolation, efficient message routing
+
+---
+
+## 📊 Open Source Contributions
+
+| Project | What I Did | Impact |
+|---|---|---|
+| [Nostream](https://github.com/Cameri/nostream) | NIP-44 v2 E2E crypto, relay-boundary access control, Zod migration, XSS fixes | Test coverage 21% → 88–93% (1,238 passing) |
+| [Galoy](https://github.com/GaloyMoney/galoy) | Event-sourced Wallet module, N+1 query fix via DataLoader | DB calls cut from ~60 to ~5 per request (12×) |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **LeetCode Knight** — Peak rating 1934, top 3.7%, 500+ problems
+- ⚡ **Juspay Hiring Challenge** — Cleared 8/9 rounds from a pool of 200,000+ candidates
+- 🏅 **Odoo Hackathon** — Ranked 41st out of 5,000+ teams
+- 🎓 **Summer of Bitcoin** — Selected from 7,000+ applicants
+- 📊 **Adobe Hackathon** — Top 4,000 out of 110,000+ teams
+- ⭐ **CodeChef 3-Star** — Peak rating 1610
+
+---
+
+## 📈 GitHub Stats
+
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetan-pp&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-pp&layout=compact&theme=default&hide_border=true)
+
+---
+
+*Targeting junior SDE roles in backend or systems engineering. If you're building something where performance, security, and correctness matter — let's talk.*
