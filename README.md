@@ -113,10 +113,9 @@ Exploring the infrastructure side of AI systems:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CKodidela&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CKodidela&layout=compact&theme=default&hide_border=true)
+[![Chetan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CKodidela&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
