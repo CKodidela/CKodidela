@@ -10,6 +10,8 @@ Currently expanding into AI engineering, exploring LLM tooling and agent infrast
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanreddyk394@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://chetan-pp.vercel.app/)
 
+Email: chetanreddyk394@gmail.com
+
 ---
 
 ## 🔧 What I Work On
